@@ -1,0 +1,6 @@
+{
+  "name": "CadQuery",
+  "description": "Editor y visor 3D paramétrico de scripts CadQuery para Android con ejecución en tiempo real y exportación CAD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
